@@ -138,7 +138,8 @@ a.button small {
   display: block;
   font-size: 11px;
 }
-header a.button {
+header a.button:hover {
+  background-color: #438EE1;
 }
 aside a.button {
   width: 138px;
@@ -436,6 +437,7 @@ footer a:hover {
     -webkit-border-radius: 5px;
     border-radius: 5px;
   }
+
   header a.button small {
     font-size: 13px;
     display: inline;

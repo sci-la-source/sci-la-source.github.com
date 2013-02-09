@@ -5,7 +5,7 @@ layout: default
 
 ### Je désire recevoir des informations sur votre bien à la vente.<br/>
 
-<form enctype="text/plain" method="post" action="MAILTO:jean-louis@jawaninja.com">
+<form enctype="text/plain" method="post" action="MAILTO:sci.lasource@laposte.net">
 <fieldset>
 <select name="titre">
   <option value="Monsieur">Monsieur</option>

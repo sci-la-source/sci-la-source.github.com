@@ -8,8 +8,7 @@ layout: default
 Chambre "Bambi":
 ![Chambre "Bambi"](/images/an_ch_bam1.jpg)
 
-Chambre "Bambi1"
-![Chambre "Bambi1"](/images/chambre_bambi_1.jpg)
+![Chambre "Bambi"](/images/chambre_bambi_1.jpg)
 
 Chambre "Johnny":
 ![Chambre-Johnny](/images/ann_ch_johnny2.jpg) 

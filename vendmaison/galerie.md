@@ -14,5 +14,7 @@ Chambre "Bambi":
 
 ![Chambre "Bambi"](/images/chambre_bambi_9j.jpg)
 
+http://jeuneespoir.free.fr/vendmaison/gifs/chambre_bambi_4.jpg
+
 Chambre "Johnny":
 ![Chambre-Johnny](/images/ann_ch_johnny2.jpg) 

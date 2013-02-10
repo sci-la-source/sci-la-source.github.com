@@ -49,9 +49,12 @@ Centres Médicaux, Pharmacies sur place (moins de 200 mètres - 5 minutes à pie
 
 Sports et loisirs à foison...
 
-<a href="https://maps.google.com/maps/ms?msa=0&amp;msid=215956908405429173338.0004d5128768319116399&amp;hl=fr-FR&amp;ie=UTF8&amp;t=m&amp;iwloc=0004d524afa63c1a2c114&amp;ll=43.386107,5.346047&amp;spn=0,0&amp;source=embed" style="color:#0000FF;text-align:left">SCI La Source</a> sur<br /></small>
- une carte plus grande. 
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.fr/maps/ms?ll=43.386125,5.345954&amp;spn=0.001569,0.002733&amp;t=m&amp;z=19&amp;msa=0&amp;msid=215956908405429173338.0004d55b8fdafa7663d97&amp;layer=c&amp;cbll=43.38591,5.345857&amp;panoid=TvNRrbMMgDrNGs_559HTGA&amp;cbp=12,94.13,,0,-0.97&amp;source=embed&amp;output=svembed"></iframe><br /><small>Afficher <a href="https://maps.google.fr/maps/ms?ll=43.386125,5.345954&amp;spn=0.001569,0.002733&amp;t=m&amp;z=19&amp;msa=0&amp;msid=215956908405429173338.0004d55b8fdafa7663d97&amp;layer=c&amp;cbll=43.38591,5.345857&amp;panoid=TvNRrbMMgDrNGs_559HTGA&amp;cbp=12,94.13,,0,-0.97&amp;source=embed" style="color:#0000FF;text-align:left">Vend Maison</a> sur une carte plus grande</small>
    
-Curieux s'abstenir, mais... si vous êtes réellement intéressés: +33 614 054 057
+Curieux s'abstenir, mais... si vous êtes réellement intéressés: 
 
-06 14 05 40 57
+#+33 614 054 057
+
+##sci.lasource@laposte.net
+
+

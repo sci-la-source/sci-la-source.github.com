@@ -13,7 +13,7 @@ De nouveau "rénovée" en 1995, la maison suivit les évolutions technologiques 
 
 Lors de la démolition du Château des Pommiers, ayant appartenu à Madame la Marquise de Balincourt, à Lançon de Provence, notre artiste atypique racheta les tuiles du château pour en recouvrir la maison. (Souvenir d'enfance, la Marquise de Balincourt était souvent son hôtesse au Château, dans son enfance, entre 1958 et 1963)...
 
-La façade fut recouverte de pierres de bavière pour conserver la fraîcheur des murs lors des chaudes journées estivales.
+La façade fut recouverte de pierres de Bavière pour conserver la fraîcheur des murs lors des chaudes journées estivales.
 
 Située à 300 mètres du tout nouveau et futuriste Hôtel de Ville des Pennes-Mirabeau,  la maison jouit d'un immense garage attenant (Qui est vendu en supplément, au mètre carré).
 
@@ -37,28 +37,19 @@ Complexe Cinémas Pathé... 5km... 10 minutes aussi...
 
 Les Transports en commun sont nombreux... (Sabardu, Cars13, Bus de l'Etang...)
 
-
-
 Ecoles, collèges, lycées, privés et publics...
-
-
 
 Universités de Provence, C.H.U., Grandes Ecoles...
 
 Tennis club à 50 mètres de la maison.
 
-Hôpital Nord, Maternité, Pavillon mère-enfant, pompiers à 3 km, soit moins de 5 minutes...
+Hôpital, Maternité, Pavillon mère-enfant, Pompiers à 3 km, soit moins de 5 minutes...
 
 Centres Médicaux, Pharmacies sur place (moins de 200 mètres - 5 minutes à pied)...
 
-
-
 Sports et loisirs à foison...
 
-
-
-
-Afficher SCI La Source sur une carte plus grande
+Afficher SCI La Source sur une carte plus grande <iframe width="150" height="100" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps/ms?msa=0&amp;msid=215956908405429173338.0004d5128768319116399&amp;hl=fr-FR&amp;ie=UTF8&amp;t=m&amp;iwloc=0004d524afa63c1a2c114&amp;ll=43.386107,5.346047&amp;spn=0,0&amp;output=embed"></iframe>
 
 Curieux s'abstenir, mais... si vous êtes réellement intéressés: +33 614 054 057
 

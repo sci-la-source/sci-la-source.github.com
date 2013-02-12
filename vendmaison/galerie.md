@@ -5,6 +5,11 @@ layout: default
 
 # Galerie de Photos
 
+###Façade:
+![Facade](http://jeuneespoir.free.fr/vendmaison/gifs/facade_a.jpg)
+
+![Facade](http://jeuneespoir.free.fr/vendmaison/gifs/facade.jpg)
+
 ###Chambre "Bambi":
 ![Chambre "Bambi"](http://jeuneespoir.free.fr/vendmaison/gifs/an_ch_bam1.jpg)
 

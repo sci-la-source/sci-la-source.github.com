@@ -2,7 +2,7 @@
 title: Vend maison d'artiste
 layout: default
 ---
-![Title pic](http://jeuneespoir.free.fr/vendmaison/gifs/titre_venda.jpg)
+![Title pic](http://jeuneespoir.free.fr/vendmaison/gifs/titrevenda.jpg)
 
 Fondée en 2001, La SCI La Source est une Société Civile Immobilière familiale qui a sauvegardé et developpé le patrimoine d'une famille provençale, pionnière du "Quartier Monaco " aux Pennes-Mirabeau, Bouches du Rhône, dans le Sud de la France.
 

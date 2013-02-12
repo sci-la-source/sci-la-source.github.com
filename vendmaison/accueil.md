@@ -4,6 +4,7 @@ layout: default
 ---
 
 # Tout ce que vous avez toujours voulu savoir sur la SCI La Source, sans oser le demander...
+![Avatar_mini](http://jeuneespoir.free.fr/vendmaison/gifs/avatar_mini.jpg)
 
 Prix exceptionnel ! Vendue d'urgence cause déménagement !
 

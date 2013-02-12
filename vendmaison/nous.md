@@ -54,6 +54,6 @@ Sports et loisirs à foison...
 #+33 614 054 057
 
 ####Nous écrire (Curieux s'abstenir, merci):
-![MAILTO](sci.lasource@laposte.net)
+sci.lasource@laposte.net
 
 

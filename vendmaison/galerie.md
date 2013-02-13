@@ -63,6 +63,14 @@ layout: default
 
 ![Chambre "Parents"](http://jeuneespoir.free.fr/vendmaison/gifs/chambre_parents6.jpg)
 
+![Chambre "Parents"](http://jeuneespoir.free.fr/vendmaison/gifs/toilettes_parents1.jpg)
+
+![Chambre "Parents"](http://jeuneespoir.free.fr/vendmaison/gifs/toilettes_parents2.jpg)
+
+![Chambre "Parents"](http://jeuneespoir.free.fr/vendmaison/gifs/toilettes_parents3.jpg)
+
+![Chambre "Parents"](http://jeuneespoir.free.fr/vendmaison/gifs/toilettes_parents4.jpg)
+
 ![Chambre "Parents"](http://jeuneespoir.free.fr/vendmaison/gifs/chambre_parents7.jpg)
 
 ###Salle A Manger "Etage":
@@ -70,17 +78,17 @@ layout: default
 
 ![Salle A manger "Etage"](http://jeuneespoir.free.fr/vendmaison/gifs/escalierA1.jpg)
 
-![Salle A manger "Etage"](http://jeuneespoir.free.fr/vendmaison/gifs/sam-etage6.jpg)
+![Salle A manger "Etage"](http://jeuneespoir.free.fr/vendmaison/gifs/sam_etage6.jpg)
 
-![Salle A manger "Etage"](http://jeuneespoir.free.fr/vendmaison/gifs/sam-etage5.jpg)
+![Salle A manger "Etage"](http://jeuneespoir.free.fr/vendmaison/gifs/sam_etage5.jpg)
 
-![Salle A manger "Etage"](http://jeuneespoir.free.fr/vendmaison/gifs/sam-etage7.jpg)
+![Salle A manger "Etage"](http://jeuneespoir.free.fr/vendmaison/gifs/sam_etage7.jpg)
 
-![Salle A manger "Etage"](http://jeuneespoir.free.fr/vendmaison/gifs/sam-etage8.jpg)
+![Salle A manger "Etage"](http://jeuneespoir.free.fr/vendmaison/gifs/sam_etage8.jpg)
 
-![Salle A manger "Etage"](http://jeuneespoir.free.fr/vendmaison/gifs/sam-etage3.jpg)
+![Salle A manger "Etage"](http://jeuneespoir.free.fr/vendmaison/gifs/sam_etage3.jpg)
 
-![Salle A manger "Etage"](http://jeuneespoir.free.fr/vendmaison/gifs/sam-etage6.jpg)
+![Salle A manger "Etage"](http://jeuneespoir.free.fr/vendmaison/gifs/sam_etage6.jpg)
 
 ###Cuisine "Etage":
 ![Cuisine "Etage"](http://jeuneespoir.free.fr/vendmaison/gifs/cuisine_etage.jpg)

@@ -10,7 +10,5 @@ layout: default
 
 ![Plan de Situation](http://jeuneespoir.free.fr/vendmaison/gifs/plandesituation.jpg)
 
-![Plan d'ensemble](http://jeuneespoir.free.fr/vendmaison/gifs/plans.jpg)
-
 ![Plan Rez de Chaussee](http://jeuneespoir.free.fr/vendmaison/gifs/situation-immeuble&maison.jpg)
 

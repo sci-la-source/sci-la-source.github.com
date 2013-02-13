@@ -5,5 +5,12 @@ layout: default
 
 # Plans et Documents
 
-Chambre "Bambi":
-![Chambre "Bambi"](/images/an_ch_bam1.jpg)
+###Plans:
+![Plan de Partage](http://jeuneespoir.free.fr/vendmaison/gifs/plandepartage.jpg)
+
+![Plan de Situation](http://jeuneespoir.free.fr/vendmaison/gifs/plandesituation.jpg)
+
+![Plan d'ensemble](http://jeuneespoir.free.fr/vendmaison/gifs/plans.jpg)
+
+![Plan Rez de Chaussee](http://jeuneespoir.free.fr/vendmaison/gifs/situation-immeuble&maison.jpg)
+

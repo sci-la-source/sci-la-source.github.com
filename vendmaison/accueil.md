@@ -80,12 +80,9 @@ Pour constructeur: Zone de continuité existante depuis 1964, immeuble mitoyen d
 Curieux s'abstenir.
 
 # (+33) 614 054 057
-####sci.lasource@laposte.net
 
 <form enctype="text/plain" method="post" action="MAILTO:sci.lasource@laposte.net">
 <fieldset>
 <input type="submit" value="Nous écrire"></input>
 </fieldset>
 </form>
-
-<div style="text-align:center;"><script type="text/javascript" src="http://services.supportduweb.com/cpt_visites/49476-1-5.js"></script></div><a href="http://www.supportduweb.com/" style="display:block;text-align:center;" title="Outils Services Compteurs G&eacute;n&eacute;rateurs Codes-sources... gratuits pour vos sites"><img src="http://www.supportduweb.com/images/ban03.gif" alt="Outils Services Compteurs G&eacute;n&eacute;rateurs Codes-sources... gratuits pour vos sites" /></a>

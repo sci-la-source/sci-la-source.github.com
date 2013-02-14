@@ -105,5 +105,9 @@ layout: default
 
 #(+33) 614 054 057
 
-MAILTO:(sci.lasource@laposte.net)
+<form enctype="text/plain" method="post" action="MAILTO:sci.lasource@laposte.net">
+<fieldset>
+<input type="submit" value="Nous écrire"></input>
+</fieldset>
+</form>
 

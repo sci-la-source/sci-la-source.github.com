@@ -12,6 +12,8 @@ layout: default
 
 ![Plan Rez de Chaussee](http://jeuneespoir.free.fr/vendmaison/gifs/situation-immeuble&maison.jpg)
 
+![Flyer](http://jeuneespoir.free.fr/vendmaison/gifs/flyer.pdf)
+
 <form enctype="text/plain" method="post" action="MAILTO:sci.lasource@laposte.net">
 <fieldset>
 <input type="submit" value="Nous écrire"></input>

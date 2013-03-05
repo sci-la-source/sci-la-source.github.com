@@ -7,7 +7,7 @@ layout: default
 
 ![Facade_a](http://jeuneespoir.free.fr/vendmaison/gifs/flyer.jpg)
 
-Prix exceptionnel ! Vendue d'urgence cause déménagement !
+Prix exceptionnel ! Vendue pour cause de déménagement !
 
 Sans agence ni commission. 
 

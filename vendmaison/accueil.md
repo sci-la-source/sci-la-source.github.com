@@ -5,7 +5,7 @@ layout: default
 
 # Tout ce que vous avez toujours voulu savoir sur la SCI La Source, sans oser le demander...
 
-![Facade_a](http://jeuneespoir.free.fr/vendmaison/gifs/flyer.jpg)
+![Facade_a](http://jeuneespoir.free.fr/vendmaison/gifs/maison-dans-le-sud.jpg)
 
 Prix exceptionnel ! Vendue pour cause de déménagement !
 
